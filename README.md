@@ -20,7 +20,7 @@ Main repository with my completed projects.
 - Leveraging Data-Driven Insights for Cardio Good Fitness (Jupyter)
   https://github.com/allergictoshellfishh/Leveraging-Data-Driven-Insights-for-Cardio-Good-Fitness-
 
-- Programming 2 Airport System Creation (C#)
+- Flight Information Display System (C#)
   https://github.com/allergictoshellfishh/S10266970_PRG2Assignment
 
 - Mokesell Database Creation Group (SQL)
